@@ -5,7 +5,7 @@
 - 申込者が入力した予測対象の太陽光発電施設（または発電所群）のスペックデータを予測パラメータとしてDBに保存し、read.phpで顧客スペックデータ管理画面を一覧表示される
 
 ## ③DEMO
-- https://fumiyokato.github.io/kadai08_db1/
+- https://weather-ds.sakura.ne.jp/kadai08_db1/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 - ID: 今回なし
